@@ -1,0 +1,12 @@
+E:\Users\griag\source\repos\MagicBall\MagicBall\bin\Debug\MagicBall.exe.config
+E:\Users\griag\source\repos\MagicBall\MagicBall\bin\Debug\MagicBall.exe
+E:\Users\griag\source\repos\MagicBall\MagicBall\bin\Debug\MagicBall.pdb
+E:\Users\griag\source\repos\MagicBall\MagicBall\bin\Debug\MetroFramework.dll
+E:\Users\griag\source\repos\MagicBall\MagicBall\bin\Debug\MetroFramework.Fonts.dll
+E:\Users\griag\source\repos\MagicBall\MagicBall\obj\Debug\MagicBall.csprojAssemblyReference.cache
+E:\Users\griag\source\repos\MagicBall\MagicBall\obj\Debug\MagicBall.Properties.Resources.resources
+E:\Users\griag\source\repos\MagicBall\MagicBall\obj\Debug\MagicBall.csproj.GenerateResource.cache
+E:\Users\griag\source\repos\MagicBall\MagicBall\obj\Debug\MagicBall.csproj.CopyComplete
+E:\Users\griag\source\repos\MagicBall\MagicBall\obj\Debug\MagicBall.exe
+E:\Users\griag\source\repos\MagicBall\MagicBall\obj\Debug\MagicBall.pdb
+E:\Users\griag\source\repos\MagicBall\MagicBall\obj\Debug\MagicBall.Form1.resources
